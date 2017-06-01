@@ -32,7 +32,7 @@
 ## cronograma
 - 2017-05-26: planejamento e escolha do algoritmo
 - 2017-05-29: montagem de repositório e coleta de referências
-- 2017-05-31: TBD (ARM)
+- 2017-05-31: TBD coleta de informação e definição da aplicação
 - 2017-06-02: TBD (ARM)
 - 2017-06-05: demonstração (ARM)
 - 2017-06-07: apresentação (ARM)
